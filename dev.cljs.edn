@@ -1,0 +1,3 @@
+^{:watch-dirs ["src/frontend"]
+  :css-dirs ["resources/public/css"]}
+{:main frontend.core}
