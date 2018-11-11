@@ -1,3 +1,3 @@
-# Introduction to easy-ubuntu
+# Introduction to panel
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)

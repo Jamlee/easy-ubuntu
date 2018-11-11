@@ -4,7 +4,7 @@
     [sablono.core :as sab :include-macros true]))
 
 ;; 定义系统 html 模板
-(def tmpl (sab/html [:h1.score "hello world"]))
+(def tmpl (sab/html [:h1.score "hello world xxxxs"]))
 
 ;; 定义系统状态
 (def starting-state {})

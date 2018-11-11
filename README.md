@@ -6,7 +6,10 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+```
+lein fig -- -b dev -r # 启动前端服务
+
+```
 
 ## License
 
