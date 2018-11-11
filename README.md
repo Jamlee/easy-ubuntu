@@ -1,4 +1,6 @@
-# easy-ubuntu
+# panel
+
+> 虚拟主机管理方案
 
 [![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
 
@@ -7,7 +9,11 @@ A Clojure library designed to ... well, that part is up to you.
 ## Usage
 
 ```
-lein fig -- -b dev -r # 启动前端服务
+# 启动前端开发服务
+lein fig -- -b dev -r 
+
+# 编译项目为 Jar 包
+lein fig -- -bo dev; lein ring uberjar
 
 ```
 
