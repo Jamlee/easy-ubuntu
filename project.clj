@@ -31,7 +31,7 @@
   ;; 后端
   :plugins [[lein-ring "0.12.4"]]
   :ring {:handler backend.server/handler}
-  :clean-targets ^{:protect false} [...targets...]
+  :clean-targets [:target-path]
   
   ;;任务
   :aliases {"fig" ["trampoline" "run" "-m" "figwheel.main"]})

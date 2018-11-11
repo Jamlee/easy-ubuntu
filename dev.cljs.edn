@@ -1,3 +1,4 @@
 ^{:watch-dirs ["src"]
+  :target-dir "resources"
   :css-dirs ["resources/public/css"]}
 {:main frontend.core}
