@@ -22,7 +22,7 @@
                   [compojure "1.6.1"]
                   [ring/ring-core "1.6.3"]]
 
-  :resource-paths ["resources" "target"]
+  :resource-paths ["resources"]
 
   ;; figwheel 开发工具
   :profiles {:dev {:dependencies [[com.bhauman/figwheel-main "0.1.7"]
