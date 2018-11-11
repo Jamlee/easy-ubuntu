@@ -1,4 +1,4 @@
-(defproject easy-ubuntu "0.1.0-SNAPSHOT"
+(defproject panel "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -31,6 +31,7 @@
   ;; 后端
   :plugins [[lein-ring "0.12.4"]]
   :ring {:handler backend.server/handler}
+  :clean-targets ^{:protect false} [...targets...]
   
   ;;任务
   :aliases {"fig" ["trampoline" "run" "-m" "figwheel.main"]})
