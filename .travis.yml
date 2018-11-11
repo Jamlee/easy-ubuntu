@@ -1,0 +1,2 @@
+language: clojure
+script: lein install, lein fig -- -bo dev, lein ring uberjar
