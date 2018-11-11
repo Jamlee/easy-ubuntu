@@ -1,10 +1,10 @@
 # panel
 
-> 虚拟主机管理方案
+> Ubuntu 主机管理方案
 
 [![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
 
-A Clojure library designed to ... well, that part is up to you.
+简洁的 Ubuntu 管理控制面板，简化常见的操作流程
 
 ## Usage
 
