@@ -1,7 +1,5 @@
 # panel
 
-> Vps Manager Panel
-
 [![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
 
 it is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
