@@ -4,10 +4,10 @@
 
 it is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
 
-- Ubuntu 
-- WindowsServer2012
-- WindowsServer2008 
-- WindowsServer2003
+- Ubuntu 16.04 / 18.04
+- WindowsServer 2012
+- WindowsServer 2008 
+- WindowsServer 2003
 
 ## Developer Usage
 
