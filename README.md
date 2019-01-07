@@ -1,18 +1,23 @@
 # panel
 
-> Ubuntu 主机管理方案
+> Vps Manager Panel
 
 [![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
 
-简洁的 Ubuntu 管理控制面板，简化常见的操作流程
+it is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
 
-## Usage
+- Ubuntu 
+- WindowsServer2012
+- WindowsServer2008 
+- WindowsServer2003
+
+## Developer Usage
 
 ```
-# 启动前端开发服务
+# start frontend server
 lein fig -- -b dev -r 
 
-# 编译项目为 Jar 包
+# compile to jar package
 lein fig -- -bo dev; lein ring uberjar
 
 ```
