@@ -6,13 +6,11 @@
 
   :dependencies [ [org.clojure/clojure "1.9.0"]
                   ;; js 模块
-                  [cljsjs/react "15.6.2-5"]
-                  [cljsjs/react-dom "15.6.2-5"]
+                  [cljsjs/react "16.6.0-0"]
+                  [cljsjs/react-dom "16.6.0-0"]
                   [cljsjs/moment "2.22.2-0"]
                   [cljsjs/c3 "0.4.18-0"]
-                  [cljsjs/formsy-react "0.19.0-0"]
-                  [cljsjs/formsy-material-ui "0.5.3-0"]
-                  [cljsjs/material-ui "1.4.0-0"]
+                  [cljsjs/bootstrap "3.3.6-1"]
 
                   ;; html 模板
                   [sablono "0.8.4"]
