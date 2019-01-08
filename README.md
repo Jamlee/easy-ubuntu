@@ -1,8 +1,8 @@
-# panel
+# VeryPanel
 
 [![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
 
-it is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
+`VeryPanel` is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
 
 - Ubuntu 16.04 / 18.04
 - WindowsServer 2012
