@@ -1,7 +1,6 @@
 # VeryPanel
 
-[![Build Status](https://travis-ci.com/Jamlee/fastvpn.svg?token=hs3Q1pnK5gPm3sLRxSyg&branch=master)](https://travis-ci.com/Jamlee/fastvpn)
-
+[![Build Status](https://travis-ci.com/Jamlee/verypanel.svg?token=hs3Q1pnK5gPm3sLRxSyg&branch=master)](https://travis-ci.com/Jamlee/verypanel)
 `VeryPanel` is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
 
 - Ubuntu 16.04 / 18.04
