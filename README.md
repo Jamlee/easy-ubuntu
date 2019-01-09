@@ -1,6 +1,6 @@
 # VeryPanel
 
-[![Build Status](https://travis-ci.com/Jamlee/panel.svg?branch=master)](https://travis-ci.com/Jamlee/panel)
+[![Build Status](https://travis-ci.com/Jamlee/fastvpn.svg?token=hs3Q1pnK5gPm3sLRxSyg&branch=master)](https://travis-ci.com/Jamlee/fastvpn)
 
 `VeryPanel` is a crazy simple control panel on Windows and Ubuntu, supporting followed list:
 
